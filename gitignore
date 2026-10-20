@@ -1,0 +1,24 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Power BI temp/cache files
+*.pbix.bak
+~$*.pbix
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE junk
+.vscode/
+.idea/
+*.swp
+
+# Env / secrets
+.env
+*.key
+*.pem
