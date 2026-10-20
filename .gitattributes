@@ -1,0 +1,4 @@
+*.R linguist-language=R
+*.r linguist-language=R
+*.pbix linguist-detectable=false
+*.csv linguist-detectable=false
