@@ -58,6 +58,8 @@ All datasets are in [`/data`](./data):
 - **Financial aid** correlates strongly with retention — students without aid and with lower GPA are most likely to drop out
 - Recommended interventions: targeted tutoring, financial aid, counseling, and social engagement — sequenced on a retention-strategy timeline
 
-## Tools
+## Tools & Technologies
 
-R (ggplot2, randomForest, caret, pROC, dplyr, cluster, fpc) · Microsoft Power BI Desktop
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![CSV](https://img.shields.io/badge/Data-CSV-green?style=for-the-badge)
