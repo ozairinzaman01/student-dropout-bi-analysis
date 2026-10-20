@@ -17,6 +17,12 @@ Covers:
 - **Predictive** — Random Forest model predicting dropout, with feature importance, a confusion matrix, and an ROC curve
 - **Prescriptive** — a Gantt chart mapping out a retention-strategy timeline (tutoring, financial aid, counseling, social engagement)
 
+<p align="center">
+  <img src="./assignment1-r-analysis/screenshots/01-kmeans-clustering.png" width="300" alt="K-means clustering of students by GPA and attendance"/>
+  <img src="./assignment1-r-analysis/screenshots/02-random-forest-feature-importance.png" width="300" alt="Random Forest feature importance plot"/>
+  <img src="./assignment1-r-analysis/screenshots/03-retention-strategy-gantt.png" width="300" alt="Retention strategy Gantt chart"/>
+</p>
+
 ### 2. [Power BI Dashboard](./assignment2-powerbi-dashboard/) — Interactive Visual Analysis
 - **Report:** [Assignment2_PowerBI_Retention_Strategy.pdf](./assignment2-powerbi-dashboard/Assignment2_PowerBI_Retention_Strategy.pdf)
 - **Dashboard file:** [itc355assignment2.pbix](./assignment2-powerbi-dashboard/itc355assignment2.pbix) *(open in Power BI Desktop)*
@@ -26,6 +32,11 @@ A 5-page interactive Power BI report built on the same analysis, covering:
 - Attendance's impact on GPA and dropout
 - Financial aid's relationship to GPA and retention
 - A retention-strategy timeline chart
+
+<p align="center">
+  <img src="./assignment2-powerbi-dashboard/screenshots/01-kmeans-clustering-powerbi.png" width="420" alt="K-means clustering visualization in Power BI"/>
+  <img src="./assignment2-powerbi-dashboard/screenshots/02-retention-strategy-chart.png" width="420" alt="Retention strategy chart in Power BI"/>
+</p>
 
 ## Data
 
